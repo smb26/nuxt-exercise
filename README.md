@@ -1,4 +1,4 @@
-# rivalry
+# nuxt exercise
 
 > My kryptonian Nuxt.js project
 
